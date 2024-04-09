@@ -12,6 +12,11 @@ Welcome to our Project 3 info!
 * Software
   * Visual Studio Code
 * Packages needing installation
+  * torch, torch.nn
+  * numpy
+  * Image from IPython.display
+  * matplotlib.pyplot
+  * torchvision
 * Platforms
   * Windows
   * Mac
