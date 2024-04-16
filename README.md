@@ -1,5 +1,5 @@
 # Project3-DS-4002
-Welcome to our Project 3 info!
+Welcome to our Project 3 info on Classifying Celebrity Faces as Young!
 
 ## Contents of our repository:
 > Section 1: Software and platforms
@@ -36,3 +36,7 @@ Welcome to our Project 3 info!
       * [2] T. Gautam, “Create Your Own Image Classification Model Using Python and Keras,” Analytics Vidhya, Oct. 16, 2020. Available: https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/. [Accessed: Apr. 04, 2024]
    
 ## Section 3: Instructions for Reproducibility
+1. Collecting Data:
+2. Model Preparation:
+3. Model Production:
+4. Model Running:
