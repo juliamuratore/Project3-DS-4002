@@ -22,7 +22,7 @@ Welcome to our Project 3 info!
   * Mac
  
 ## Section 2: Map of documentation
-* Project1-DS-4002
+* Project3-DS-4002
   * README.md
       * Orientation of repository
   * LICENSE.md
@@ -31,6 +31,8 @@ Welcome to our Project 3 info!
   * DATA
   * OUTPUT
   * REFERENCES
-      * [1] 
+      * [1] “CelebA Dataset.” Available: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html. [Accessed: Apr. 04, 2024]
+
+      * [2] T. Gautam, “Create Your Own Image Classification Model Using Python and Keras,” Analytics Vidhya, Oct. 16, 2020. Available: https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/. [Accessed: Apr. 04, 2024]
    
 ## Section 3: Instructions for Reproducibility
